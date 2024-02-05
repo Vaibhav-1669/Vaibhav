@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="robot" content="noindex">
+  <meta name="robots" content="noindex">
     <link rel="stylesheet" href="pp.css">
     <title>Popup Example</title>
 </head>
